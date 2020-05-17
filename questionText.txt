@@ -1,0 +1,3 @@
+001 | Decision making structures cannot be nested. True or False? | 010 ;
+002 | Which of the following echo statements is valid? | 020 ;
+003 | If you include an array within a text string, you need to use complex string syntax. True or False? | 030;

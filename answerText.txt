@@ -1,0 +1,6 @@
+010 | True | 001 ;
+011 | False | 001 ;
+020 | 'Welcome to the 'combat zone' | 002 ;
+021 |  "hello" | 002 ;
+030 | True | 003 ;
+031 | False | 003 ;
